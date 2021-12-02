@@ -3,7 +3,7 @@
 
 - 🔭 Estudante de Desenvolvimento web
 - 🌱 Estou aprendo a aprender
-- 😄 Pronouns: she, her
+- 😄 Pronomes: ela, ela
 
 
 <div align="center">
