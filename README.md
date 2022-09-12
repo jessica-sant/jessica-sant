@@ -1,8 +1,8 @@
    Olá, Eu sou a Jéssica Santos 👋
    
 
-- 🔭 Estudante de Desenvolvimento web na Trybe
-- 🌱 Estou buscando e aprendendo conhecimentos para evoluir na minha carreira de desenvolvedora;
+- 🔭 Desenvolvedora Back-end jr
+- 🌱 Estou aprendendo C# e .net
 - 😄 Meus hobbies são ler, ver filmes e séries e fazer brigadeiro.
 
 
